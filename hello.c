@@ -7,7 +7,6 @@ int main(int argc, char *argv[])
 
 	printf("Hello world\n");
 	
-	printf("even more stuff\n");
-
+	printf("testing branch\n");
 	return 0;
 }
