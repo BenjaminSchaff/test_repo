@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
 	
-	printf("more stuff\n");
+	printf("master");
 
 	printf("Hello world\n");
 	
